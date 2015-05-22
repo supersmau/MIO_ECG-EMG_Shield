@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [MioShield.PcbDoc]
+   Generated File[MioShield-Plated.TXT]
+   Generated File[MioShield-NonPlated.TXT]
+   Generated File[MioShield.LDP]
+   Generated File[MioShield.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 10:51:21 On 14/05/2015

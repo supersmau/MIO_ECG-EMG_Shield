@@ -1,0 +1,6 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=Mio.PrjPcb
+[Project2]
+ProjectPath=..\..\library\ECG_EMG\ECG_EMG.LibPkg

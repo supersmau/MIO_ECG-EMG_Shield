@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\slopez\workspace\altium\projects\Mio\Altium Arduino UNO R3\MioShield.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=mioshield-plated.txt|LayerPairs=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=mioshield-nonplated.txt|LayerPairs=gtl,gbl

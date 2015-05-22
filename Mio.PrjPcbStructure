@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=MioShield.SchDoc
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=MioShield.SchDoc|Designator=Analog Front End|SchDesignator=Analog Front End|FileName=AFE.SchDoc|SymbolType=Normal|RawFileName=AFE.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=MioShield.SchDoc|Designator=Isolated Power Supply|SchDesignator=Isolated Power Supply|FileName=Power.SchDoc|SymbolType=Normal|RawFileName=Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=MioShield.SchDoc|Designator=SPI Isolation|SchDesignator=SPI Isolation|FileName=Isolation.SchDoc|SymbolType=Normal|RawFileName=Isolation.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
